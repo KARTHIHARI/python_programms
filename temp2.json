@@ -1,0 +1,49 @@
+[
+    {
+        "tags": [
+            "humor",
+            "love",
+            "romantic",
+            "women"
+        ],
+        "quotes": "A lady&#39;s imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.",
+        "author": "Jane Austen",
+        "about": "http://quotes.toscrape.com/author/Jane-Austen"
+    },
+    {
+        "tags": [
+            "humor",
+            "sinister"
+        ],
+        "quotes": "I am free of all prejudice. I hate everyone equally. ",
+        "author": "W.C. Fields",
+        "about": "http://quotes.toscrape.com/author/W-C-Fields"
+    },
+    {
+        "tags": [
+            "courage",
+            "friends"
+        ],
+        "quotes": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+        "author": "J.K. Rowling",
+        "about": "http://quotes.toscrape.com/author/J-K-Rowling"
+    },
+    {
+        "tags": [
+            "integrity"
+        ],
+        "quotes": "Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.",
+        "author": "J.K. Rowling",
+        "about": "http://quotes.toscrape.com/author/J-K-Rowling"
+    },
+    {
+        "tags": [
+            "learning",
+            "reading",
+            "seuss"
+        ],
+        "quotes": "The more that you read, the more things you will know. The more that you learn, the more places you&#39;ll go.",
+        "author": "Dr. Seuss",
+        "about": "http://quotes.toscrape.com/author/Dr-Seuss"
+    }
+]

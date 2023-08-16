@@ -9,6 +9,7 @@ def fun():
 @app.route("/",methods=["POST"])
 def fun2():
     print("content:",request.content_type)
+    print(request.args)
     return f"{dict(request.form)}"
 
 app.run(debug=True,host="0.0.0.0")

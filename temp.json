@@ -1,0 +1,52 @@
+[
+    {
+        "tags": [
+            "books",
+            "mind"
+        ],
+        "quotes": "... a mind needs books as a sword needs a whetstone, if it is to keep its edge.",
+        "author": "George R.R. Martin",
+        "about": "http://quotes.toscrape.com/author/George-R-R-Martin"
+    },
+    {
+        "tags": [
+            "friendship",
+            "lack-of-friendship",
+            "lack-of-love",
+            "love",
+            "marriage",
+            "unhappy-marriage"
+        ],
+        "quotes": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
+        "author": "Friedrich Nietzsche",
+        "about": "http://quotes.toscrape.com/author/Friedrich-Nietzsche"
+    },
+    {
+        "tags": [],
+        "quotes": "It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.",
+        "author": "J.K. Rowling",
+        "about": "http://quotes.toscrape.com/author/J-K-Rowling"
+    },
+    {
+        "tags": [
+            "happiness"
+        ],
+        "quotes": "For every minute you are angry you lose sixty seconds of happiness.",
+        "author": "Ralph Waldo Emerson",
+        "about": "http://quotes.toscrape.com/author/Ralph-Waldo-Emerson"
+    },
+    {
+        "tags": [
+            "books",
+            "children",
+            "difficult",
+            "grown-ups",
+            "write",
+            "writers",
+            "writing"
+        ],
+        "quotes": "You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.",
+        "author": "Madeleine L&#39;Engle",
+        "about": "http://quotes.toscrape.com/author/Madeleine-LEngle"
+    }
+]

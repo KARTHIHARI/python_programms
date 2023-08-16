@@ -4,6 +4,7 @@ app=Flask(__name__)
 
 @app.route("/",methods=["GET","DELETE"])
 def fun():
+    print("args:",dict(request.args))
     if request.args["opt"]=="prime":
         x=int(request.args["value"])
         if x<3:

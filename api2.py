@@ -5,7 +5,7 @@ from flask import Flask,request
 import math
 app=Flask(__name__)
 
-@app.route("/data",methods=["GET","DELETE"])
+@app.route("/data",methods=["GET","POST"])
 def fun():
     l=[]
     for i in range(5):
@@ -25,7 +25,7 @@ def fun():
         l.append(i)
         
     # print(l)
-    f=open("temp.json","w")
+    f=open("temp2.json","w")
     s=json.dumps(l,indent=4)
     f.write(s)
     return s
