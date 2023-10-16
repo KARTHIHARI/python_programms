@@ -24,4 +24,4 @@ c = 'H'
 #     print((c*n).center(n*2)+(c*n).center(n*6)) 
 # 
 for i in range(n):
-    print(((c*(n-i-1)).rjust(n)+c+(c*(n-i-1)).ljust(n)).rjust(n*6)) 
+    print(((c*(n-i-1)).rjust(n)+c+(c*(n-i-1)).ljust(n)).rjust(n*6))  

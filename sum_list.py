@@ -11,7 +11,7 @@ print(a)
 [print(i,j) for i in l1 for j in l2 if i+j==sum]
 b=datetime.now()
 print(b,"diff",abs(b-a))
-for i in l1:
+for i in l1: 
     for j in l2:
         if i+j==sum:
             print(i,j)
