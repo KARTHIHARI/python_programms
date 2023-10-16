@@ -16,11 +16,11 @@ for i in range(len(s)):
                 l.append(t)
 
                 #(OR)
-for i in range(len(s)+1):
-    for j in range(i+1,len(s)+1):
-        print(s[i:j])
+# for i in range(len(s)+1):
+#     for j in range(i+1,len(s)+1):
+#         print(s[i:j])
 
-print(l)
+# print(l)
 # s=input()
 # for i in range(0,len(s)+1):
 #     print(s[i:len(s)+1])

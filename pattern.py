@@ -3,8 +3,6 @@
 # n=int(input())
 # for i in range(n):
 #     for j in range(n):
-#         l=n
-#         k=n
 #         if i+j==n-1:
 #             print("*",end=" ")
 #         elif i==j:
@@ -31,7 +29,7 @@
 #     print()
 
 
-#RIT TRIANGLE with slash
+#LFT Triangle with slash
 # n=int(input())
 # for i in range(n):
 #     for j in range(n):
@@ -40,6 +38,8 @@
 #         elif i==n-1 :
 #             print("*",end=" ")
 #         elif i+j==n-1:
+#             print("*",end=" ")
+#         elif i==j:
 #             print("*",end=" ")
       
 #         else:
@@ -64,16 +64,28 @@
 
 
 #Timeline
+# n=int(input())
+# for i in range(n):
+#     for j in range(n):
+#         if (i==0) :
+#             print("*",end=" ")
+#         elif i==n-1:
+#             print("*",end=" ")
+#         elif i+j==n-1:
+#             print("*",end=" ")
+#         elif i==j:
+#             print("*",end=" ")
+#         else:
+#             print(" ",end=" ")
+#     print()
+
+#SQUARE
 n=int(input())
 for i in range(n):
     for j in range(n):
-        if (i==0) :
+        if (i==0) | (j==0) :
             print("*",end=" ")
-        elif i==n-1:
-            print("*",end=" ")
-        elif i+j==n-1:
-            print("*",end=" ")
-        elif i==j:
+        elif i==n-1 or j==n-1:
             print("*",end=" ")
         else:
             print(" ",end=" ")

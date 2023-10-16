@@ -7,8 +7,8 @@ def prime(x):
         if x%i==0:
             return False
     return True
-# for i in range(1,25):
-#     if prime(i):
-#         print(i)
-#     prime(i)
-print(prime(23))
+for i in range(1,25):
+    if prime(i):
+        print(i)
+    # prime(i)
+# print(prime(23))

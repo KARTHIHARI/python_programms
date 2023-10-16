@@ -9,4 +9,4 @@ for i in range(1,n+1):
 # or
 
 
-# [[print(("#"*i).rjust(j," ")) for i in range(1,j+1) ] for j in range(int(input()),0,-int(input())) ]
+# [[print(("#"*i).rjust(j," ")) for i in range(1,j+1) ] for j in range(int(input()),0,-int(input())) ] 
